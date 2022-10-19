@@ -47,9 +47,9 @@ const App = () => {
       <div className="justify-content-center align-items-center text-center container mt-5 mb-5">
         <h1 className="color1 mt-5 mb-5">Serivces</h1>
         <div className="row gx-5 cards">          
-          <Serivces name="Game" image="playstation.jpg"/>
-          <Serivces name="Music" image="robot.jpg"/>
-          <Serivces name="Video" image="playbtn.jpg"/>       
+          <Serivces name="Game" image="music.jpg"/>
+          <Serivces name="Music" image="music.jpg"/>
+          <Serivces name="Video" image="music.jpg"/>       
         </div>
       </div>
       <div className="header" style={{ backgroundImage: `url(${background})` }}>
